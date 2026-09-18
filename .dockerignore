@@ -1,0 +1,13 @@
+.git
+.gitignore
+.env
+.dockerignore
+node_modules
+npm-debug.log
+Dockerfile
+.dockerignore
+.venv
+venv
+__pycache__
+*.pyc
+.next
